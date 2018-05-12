@@ -1,0 +1,31 @@
+_repo: Edgar-Allan-PoeDie-Dichtung-Band-XLII_20589
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20589-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Ewers, Hanns Heinz
+    birthdate: 1871
+    deathdate: 1943
+    gutenberg_agent_id: '9408'
+    url: http://www.gutenberg.org/2009/agents/9408
+    wikipedia: http://de.wikipedia.org/wiki/Hanns_Heinz_Ewers
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2007-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20589'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature, American -- Appreciation'
+- !lcsh 'Poe, Edgar Allan, 1809-1849 -- Appreciation'
+- !lcc 'PS'
+title: 'Edgar Allan Poe
+
+  Die Dichtung, Band XLII'
+url: http://www.gutenberg.org/ebooks/20589
