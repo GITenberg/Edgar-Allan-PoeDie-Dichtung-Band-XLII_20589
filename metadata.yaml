@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9408
     wikipedia: http://de.wikipedia.org/wiki/Hanns_Heinz_Ewers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20589#Edgar-Allan-PoeDie-Dichtung-Band-XLII
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2007-02-16'
 gutenberg_type: Text
